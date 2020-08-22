@@ -1,0 +1,22 @@
+{
+    "fileName": "dummy-data.json",
+    "filePath": "services/frontend/ui/src/assets/json/dummy-data.json",
+    "details": [
+      {
+        "id": 1,
+        "name": "AA",
+        "description": "AA Description"
+      },
+      {
+        "id": 2,
+        "name": "BB",
+        "description": "BB Description"
+      },
+      {
+        "id": 3,
+        "name": "CC",
+        "description": "CC Description"
+      }
+    ]
+  }
+  
