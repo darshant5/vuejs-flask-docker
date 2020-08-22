@@ -209,10 +209,4 @@ export default {
     },
   },
 };
-
-// https://stackoverflow.com/questions/29368138/outlining-and-partially-filling-an-svg-shape
-// http://tutorials.jenkov.com/svg/rect-element.html
-// https://www.w3schools.com/graphics/svg_filters_intro.asp
-// https://yoksel.github.io/svg-filters/#/
-// https://www.tutorialspoint.com/svg/svg_patterns.htm
 </script>
